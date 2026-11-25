@@ -84,12 +84,12 @@ def default_reply_keyboard() -> ReplyKeyboardMarkup:
         resize_keyboard=True
     )
 
-MAIN_OWNER = 8555019250
+MAIN_OWNER = 9104197600
 SUPER_ADMIN_NAME = "@evvnxbomb"
 SUPER_ADMIN_LINK = "https://t.me/Evvn007"
 SUPER_ADMINS = [9183324542]
 
-BOT_TOKEN = "9289636433:AAEb3FfabF1qGx-PwbLJUoTvbmJUEn8tzqc"
+BOT_TOKEN = "YOUR_BOT_TOKEN"
 LOG_CHANNEL_ID = -1004471541447
 
 _DATA_FILE = "blast_data.json"
